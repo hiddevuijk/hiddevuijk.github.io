@@ -108,13 +108,14 @@ table {
 .teaser {
 	background: green; 
 	text-align: justify;
-	padding: 5px;
+	padding: 15px 0 15px 0;
 }
 
 .teaser img {
-	width: 60%;
+	width: 65%;
 	float: right;
-	padding: 5%;
+	padding: 1px;
+	margin: 0 0 2px 7.5px;
 }
 
 /*
